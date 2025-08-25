@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "projectName": "Sprout",
+    "projectDescription": "Mobile app to organize gardening club tasks and gamify volunteering goals.",
+    "techStack": ["React Native", "TypeScript", "Expo", "Firebase"],
+    "githubLink": "https://github.com/SBU-VIP-Devs/plant-app",
+    "demoLink": null,
+    "projectImage": "/sprout.png"
+  },
+  {
+    "id": 2,
+    "projectName": "Flexy",
+    "projectDescription": "Exercise platform for arthitis patients with a selection of hand and body exercises.",
+    "techStack": ["React", "JavaScript", "OpenCV", "MediaPipe", "Flask"],
+    "githubLink": "https://github.com/Shameed4/Flexy",
+    "demoLink": "https://devpost.com/software/flexy-and-i-know-it",
+    "projectImage": "flexy.png"
+  },
+  {
+    "id": 3,
+    "projectName": "Hocus Potus",
+    "projectDescription": "Trivia game on presidential candidates to encourage political engagement.",
+    "techStack": ["HTML", "CSS", "OpenAI", "Flask", "MongoDB Atlas"],
+    "githubLink": "https://github.com/ritessshhh/HOCUS-POTUS-SBUhacks-2024",
+    "demoLink": "https://devpost.com/software/hocus-potus",
+    "projectImage": "hocuspotus.png"
+  },
+  {
+    "id": 4,
+    "projectName": "ADHD Prediction",
+    "projectDescription": "Used behavioral, environmental, and neuroimaging data to predict ADHD in females.",
+    "techStack": ["Python", "Geomstats", "Scikit-learn", "PyTorch"],
+    "githubLink": "https://github.com/VIR-WiDS-Team-Brainstem/Brainstem-Team-BTT",
+    "demoLink": null,
+    "projectImage": "adhd.png"
+  }
+]

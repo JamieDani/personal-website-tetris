@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "company": "University of Illinois Urbana-Champaign",
+    "position": "Machine Learning Research Fellow",
+    "duration": "May 2025 - July 2025",
+    "companyLogo": "/ncsaatillinois_logo.jpg",
+    "description": [
+      "Supported development of a Flutter mobile app for personalized nutrition data collection with generative AI",
+      "Improved user meal logging efficiency by building multi-meal voice input with modular BLoC architecture",
+      "Designed GraphQL schemas and backend functions with AWS Amplify to enable persistent AI chat history",
+      "Built a serverless pipeline using AWS Lambda functions for user-specific weekly food aggregation and an OpenAI chat thread to convert Passio nutrition data into Healthy Eating Index categories for calculating diet quality scores"
+    ]
+  },
+  {
+    "id": 2,
+    "company": "S&P Dow Jones Indices",
+    "position": "AI Studio Fellow",
+    "duration": "Aug 2024 – Dec 2024",
+    "companyLogo": "/spglobal_logo.jpg",
+    "description": [
+      "Collaborated on building an AI patent classification pipeline to automate industry labeling for market indices",
+      "Tested modifications to Python pipeline to enable batch predictions with Gemini, analyzing performance impact",
+      "Manually labeled and verified over 100 patent abstracts to assess model accuracy and validate classification results"
+    ]
+  },
+  {
+    "id": 3,
+    "company": "Phygtl Inc.",
+    "position": "Engineering Intern",
+    "duration": "Aug 2024 – Nov 2024",
+    "companyLogo": "/phygtl.jpg",
+    "description": [
+      "Developed a Python Discord bot using Interactions.py and Senja API to create an engaging onboarding experience",
+      "Collaborated with the Product Design Lead and CEO of the startup to improve user flows for Gen Z audiences"
+    ]
+  }
+]
